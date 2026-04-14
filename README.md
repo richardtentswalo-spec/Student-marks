@@ -31,4 +31,5 @@ For each student, the program:
 - Variables and counters
 
 ## Author
-Student project for learning Python programming and basic data processing.
+Rabapane Tentswalo Richard
+
